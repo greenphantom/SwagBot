@@ -1,0 +1,35 @@
+<commands>
+	<command>
+		<keyword>text</keyword>
+		<others>
+			<alias>send text</alias>
+		</others>
+		<desc>I can send a text for you!</desc>
+	</command>
+	<command>
+		<keyword>commands</keyword>
+		<others>
+			<alias>list commands</alias>
+			<alias>list</alias>
+			<alias>l</alias>
+			<alias>display cmds</alias>
+			<alias>display commands</alias>
+			<alias>display</alias>
+		</others>
+		<desc>Lists all the commands with their aliases and descriptions</desc>
+	</command>
+	<command>
+		<keyword>add</keyword>
+		<others>
+			<alias>add command</alias>
+		</others>
+		<desc>Allows you to add a new custom command!</desc>
+	</command>
+	<command>
+	<keyword>reminder</keyword>
+		<others>
+			<alias>set reminder</alias>
+		</others>
+		<desc>I can send a reminder for you!</desc>
+	</command>
+</commands>

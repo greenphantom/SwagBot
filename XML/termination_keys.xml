@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<termination_keys>
+	<key>bye</key>
+	<key>quit</key>
+	<key>logout</key>
+	<key>done</key>
+	<key>terminate</key>
+	<key>goodbye</key>
+	<key>farewell</key>
+	<key>catch ya' on the flip side</key>
+	<key>peace</key>
+	<key>q</key>
+	<key>peace out</key>
+</termination_keys>
