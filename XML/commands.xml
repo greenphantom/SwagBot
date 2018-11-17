@@ -7,22 +7,23 @@
 		</others>
 	</command>
 	<command>
+		<keyword>rm_substring</keyword>
+		<desc>Removes a substring from a particular string. Added as an example function for introduction to adding external modules.</desc>
+		<others>
+			<alias>remove substring</alias>
+		</others>
+	</command>
+	<command>
 		<keyword>list</keyword>
-		<desc>Lists all the commands with their aliases and descriptions</desc>
+		<desc>Lists all the commands with their aliases and descriptions.</desc>
 		<others>
 			<alias>list commands</alias>
 			<alias>commands</alias>
 			<alias>l</alias>
+			<alias>ls</alias>
 			<alias>display cmds</alias>
 			<alias>display commands</alias>
 			<alias>display</alias>
-		</others>
-	</command>
-	<command>
-		<keyword>add</keyword>
-		<desc>Allows you to add a new custom command!</desc>
-		<others>
-			<alias>add command</alias>
 		</others>
 	</command>
 	<command>
@@ -30,6 +31,34 @@
 		<desc>I can send a reminder for you!</desc>
 		<others>
 			<alias>set reminder</alias>
+		</others>
+	</command>
+	<command>
+		<keyword>search</keyword>
+		<desc>Opens Google and searches the phrase specified.</desc>
+		<others>
+			<alias>google</alias>
+		</others>
+	</command>
+	<command>
+		<keyword>sum</keyword>
+		<desc>Sums two numbers</desc>
+		<others>
+			<alias>sum nums</alias>
+		</others>
+	</command>
+	<command>
+		<keyword>clear</keyword>
+		<desc>Clears the terminal.</desc>
+		<others>
+			<alias>c</alias>
+		</others>
+	</command>
+	<command>
+		<keyword>quicksort</keyword>
+		<desc>Sorts a list provided using quick sort!</desc>
+		<others>
+			<alias>sort</alias>
 		</others>
 	</command>
 </commands>

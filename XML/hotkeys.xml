@@ -1,0 +1,9 @@
+<hotkeys>
+	<hotkey>
+		<name>Stop</name>
+		<combinataion>
+			<key>ctrl</key>
+			<key>esc</key>
+		</combinataion>
+	</hotkey>
+</hotkeys>
